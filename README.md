@@ -18,5 +18,6 @@ I have added some notes to the jupyter notebook I was working in, to describe in
 
 I do not think I will continue this project into my third capstone, unless I can figure out how to get the information I need (statisctics, maybe contract/salary information) and how to mix it in with informatino I already have.
 
-
-
+There are two data files.  
+https://ci-baseballpredictor.s3.us-east-2.amazonaws.com/roster2017final
+https://ci-baseballpredictor.s3.us-east-2.amazonaws.com/roster2018final

@@ -16,8 +16,11 @@ The data itself caused problems too:
 
 I have added some notes to the jupyter notebook I was working in, to describe in greater details the steps I had to go through to retrieve the data, assemble the datasets I heeded, and create the target data (consisting of ones and zeros). 
 
-I do not think I will continue this project into my third capstone, unless I can figure out how to get the information I need (statisctics, maybe contract/salary information) and how to mix it in with informatino I already have.
+I do not think I will continue this project into my third capstone, unless I can figure out how to get the information I need (statistics, maybe contract/salary information) and how to mix it in with information I already have.
 
 There are two data files.  
 https://ci-baseballpredictor.s3.us-east-2.amazonaws.com/roster2017final
 https://ci-baseballpredictor.s3.us-east-2.amazonaws.com/roster2018final
+
+The notebook called Baseball1.ipynb loads these files. You can load that notebook and run it. The other notebook - baseball2.ipynb - has my code in it but it will probably not run.
+
